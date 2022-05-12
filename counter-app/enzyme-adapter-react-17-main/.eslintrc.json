@@ -1,0 +1,6 @@
+{
+  "extends": "wojtekmaj/node",
+  "rules": {
+    "import/default": "off"
+  }
+}
